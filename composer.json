@@ -1,0 +1,13 @@
+{
+    "name": "a3020/quick_not_found",
+    "description": "A concrete5 8.4.0+ add-on to quickly return a 404-response if a file isn't found.",
+    "type": "concrete5-package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "a3020",
+            "email": "a3020@fastmail.com"
+        }
+    ],
+    "require": {}
+}
